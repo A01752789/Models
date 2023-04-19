@@ -26,4 +26,4 @@ const ventaSchema = new Schema({
 
 const Venta = mongoose.model('Venta', ventaSchema);
 
-module.exports = Automovil;
+module.exports = Venta;
